@@ -27,3 +27,5 @@
 - <b>Latency</b>: Amazon RDS may introduce additional latency compared to running your own database infrastructure.
 
 In summary, Amazon RDS is a powerful and easy-to-use cloud-based database service that provides managed solutions for various database engines. It simplifies the process of setting up, operating, and scaling a relational database, and provides several advantages such as scalability, high availability, and security. However, it also has its limitations and disadvantages, such as limited control over the underlying infrastructure, higher cost, and potential latency issues.
+
+[aws-documentation](https://docs.aws.amazon.com/rds/?icmpid=docs_homepage_databases)

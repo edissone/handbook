@@ -52,3 +52,5 @@ Amazon Route 53 integrates with other AWS services to provide a seamless experie
 
 - <b>Cost</b>: Amazon Route 53 is priced on a per-query basis, which can become costly for users with high traffic volumes.
 - <b>Limited support for non-AWS resources</b>: Although Amazon Route 53 can route traffic to external resources, its features are primarily designed for use with AWS resources.
+
+[aws-documentation](https://docs.aws.amazon.com/route53/?icmpid=docs_homepage_networking)

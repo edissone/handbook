@@ -27,3 +27,5 @@
 - <b>Configuration</b>: Configuring and managing multiple VPCs can be complex and time-consuming.
 
 Overall, Amazon VPC provides a flexible and secure virtual network within the AWS cloud that can be customized to meet your specific needs. By creating a VPC, you can launch AWS resources within a private and isolated network, connect multiple VPCs, and connect your VPC to your on-premises data center, providing a seamless and secure hybrid cloud environment.
+
+[aws-documentation](https://docs.aws.amazon.com/vpc/?icmpid=docs_homepage_networking)

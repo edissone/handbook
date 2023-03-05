@@ -45,3 +45,5 @@ FileUtils.copyInputStreamToFile(inputStream, new File("path/to/downloaded/file.t
 ```
 s3client.deleteObject("my-bucket", "file.txt");
 ```
+
+[aws-documentation](https://docs.aws.amazon.com/s3/?icmpid=docs_homepage_storage)

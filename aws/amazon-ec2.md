@@ -84,3 +84,5 @@ Here are some key features and benefits of monitoring and management in EC2:
 - <b>Integration</b>: CloudWatch and Systems Manager integrate with other AWS services, such as AWS Lambda and AWS Config, to provide a comprehensive suite of monitoring and management tools for EC2 instances and other AWS resources.
 
 Overall, monitoring and management are critical components of running EC2 instances in the AWS cloud. By leveraging tools like CloudWatch and Systems Manager, users can gain insight into the performance and health of their instances, automate common administrative tasks, and identify and address issues before they become problems. This helps ensure that applications running on EC2 instances are always available and performing optimally.
+
+[aws-documentation](https://docs.aws.amazon.com/ec2/?icmpid=docs_homepage_compute)

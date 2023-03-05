@@ -43,3 +43,5 @@
 - <b>Caching</b>: Amazon CloudFront's caching behavior can be unpredictable, especially if you have dynamic content or frequently changing content.
 
 Overall, Amazon CloudFront is a powerful and flexible CDN that can accelerate the delivery of content and improve the performance and reliability of your website or application. However, it's important to carefully consider the cost and complexity of using Amazon CloudFront and to design your content delivery strategy accordingly.
+
+[aws-documentation](https://docs.aws.amazon.com/cloudfront/?icmpid=docs_homepage_networking)
